@@ -1,0 +1,46 @@
+[
+   {
+      "Id":1,
+      "Title":"Blog1",
+	  "CoverImage":"ConverImage1.jpg",
+      "MetaTags":[
+         "Tag1",
+         "Tag2"
+      ],
+      "CreatedBy":"Rakesh Kushwaha",
+      "CreatedOn":"00-00-0000",
+      "Content":[
+         {
+            "Id":1,
+            "ContentType":1,
+            "Paragraph":"This is the first paragraph."
+         },
+         {
+            "Id":2,
+            "ContentType":3,
+            "Images":[
+               "Image1.jpg",
+               "Image2.jpg"
+            ]
+         },
+         {
+            "Id":2,
+            "ContentType":4,
+            "List":[
+               "This is the first paragraph.",
+               "This is the first paragraph."
+            ]
+         },
+         {
+            "Id":1,
+            "ContentType":1,
+            "Paragraph":"This is the first paragraph."
+         },
+         {
+            "Id":1,
+            "ContentType":2,
+            "Image":"Image.jpg"
+         }
+      ]
+   }
+]
